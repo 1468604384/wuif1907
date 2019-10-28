@@ -1,0 +1,74 @@
+.nei5{
+	width: 7.5rem;
+	height: auto;
+	margin: 0 auto;
+	background: #FFFFFF;
+	padding-bottom: 0.7rem;
+}
+.nei5-1{
+	width: 6.42rem;
+	height: 1.36rem;
+	background: #FFFFFF;
+	margin: 0 auto;
+	/*text-align: center;*/
+	border-bottom: 0.02rem solid #C1C1C1;
+	position: relative;
+}
+.nei5-1-1{
+	color: black;
+	font-size: 0.24rem;
+	position: absolute;
+	top: 0.3rem;
+	left: 0rem;
+}
+.nei5-1-2{
+	width: 0.66rem;
+	height: 0.4rem;
+	background: #FFCF52;
+	/*margin: 0 auto;*/
+	/*margin-top: 1rem;*/
+	border-radius: 0.05rem;
+	border: 0.01rem solid #F2F2F2;
+	color: #333;
+	font-size: 0.18rem;
+	text-align: center;
+	line-height: 0.4rem;
+	position: absolute;
+	top: 0.26rem;
+	left: 3.36rem;
+}
+.nei5-1-3{
+	color: #666;
+	font-size: 0.18rem;
+	position: absolute;
+	top: 0.84rem;
+	left: 0rem;
+}
+.nei5-1-tu{
+	width: 0.28rem;
+	height: 0.28rem;
+	position: absolute;
+	top: 0.84rem;
+	right: 0rem;
+}
+.nei5-1-tu img{
+	display: block;
+	width: 0.28rem;
+	height: 0.28rem;
+}
+
+/*退出*/
+.addr{
+	width: 6.4rem;
+	height: 0.78rem;
+	background: #FFCF52;
+	margin: 0 auto;
+	margin-top: 4.37rem;
+	border-radius: 0.1rem;
+	border: 0.01rem solid #F2F2F2;
+	color: #FFFFFF;
+	font-size: 0.28rem;
+	font-weight: 700;
+	text-align: center;
+	line-height: 0.78rem;
+}

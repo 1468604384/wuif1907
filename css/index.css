@@ -1,0 +1,263 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #f6f6f6;
+}
+.container{
+	padding: 0 0.25rem 0;
+	box-sizing: border-box;
+}
+#nav{
+	width: 100%;
+	height: 0.88rem;
+	border-bottom: 1px solid #ffcb3f;
+}
+#nav ul{
+	margin: 0;
+	list-style: none;
+	height: 0.88rem;
+	display: flex;
+	justify-content: space-between;
+}
+#nav ul li{
+	width: 1rem;
+	height: 100%;
+	line-height: 0.88rem;
+	font-size: 0.24rem;
+	color: #000000;
+	opacity: 0.7;
+	line-height: 1rem;
+}
+#title-bg{
+	width: 100%;
+	height: 3.84rem;
+}
+#title-bg img{
+	width: 100%;
+	height: 3.84rem;
+}
+#hot{
+	width: 100%;
+	height: 6.93rem;
+	/* background-color: white; */
+}
+.hot-top{
+	width: 100%;
+	height: 3.73rem;
+	padding-top:1.11rem ;
+	box-sizing: border-box;
+	padding-left:0.2rem ;
+	
+}
+.hot-top img{
+	width: 6.25rem;
+	height: 2.62rem;
+}
+.hot-bottom{
+	width: 100%;
+	height: 3.2rem;
+	padding-top: 0.58rem;
+	box-sizing: border-box;
+	display: flex;
+}
+.hb-left{
+	width: 4.36rem;
+	height: 100%;
+	padding-left: 0.5rem;
+	box-sizing: border-box;
+	/* float: left; */
+}
+.hb-left h3{
+	width: 100%;
+	height: 0.31rem;
+	font-size: 0.31rem;
+	font-weight: 700;
+	letter-spacing: 1px;
+	color: #000000;
+	
+	display: block;
+}
+.hb-left h4{
+	width: 100%;
+	height: 0.21rem;
+	font-size: 0.2rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 1px;
+	color: #000000;
+	margin-top: 0.14rem;
+	display: block;
+}
+.hb-left p{
+	width: 100%;
+	height: 0.21rem;
+	font-size: 0.18rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 1px;
+	color: #000000;
+	margin-top: 1.1rem;
+	display: block;
+}
+.hb-left p span{
+	font-size: 0.3rem;
+	color: #000000;
+	font-weight: 600;
+}
+.hb-left h6{
+	width: 100%;
+	height: 0.21rem;
+	font-size: 0.18rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 1px;
+	color: #000000;
+	margin-top: 0.13rem;
+	display: block;
+}
+.hb-right{
+	width: 2.04rem;
+	height: 100%;
+	/* float: right; */
+}
+#small{
+	width: 100%;
+	height: 8.56rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.child{
+	width: 3.25rem;
+	height: 4.06rem;
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+}
+.cleft{
+	width: 2.63rem;
+	height: 100%;
+	padding-top: 0.09rem;
+	padding-left: 0.3rem;
+	box-sizing: border-box;
+}
+.cright{
+	width: 0.8rem;
+	height: 100%;
+}
+.cleft h1{
+	width: 100%;
+	height: 0.21rem;
+	font-size: 0.18rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 1px;
+	color: #000000;
+	margin-top: 0.13rem;
+	display: block;
+}
+.cleft h2{
+	width: 100%;
+	height: 0.34rem;
+	font-size: 0.26rem;
+	font-weight: 700;
+	font-stretch: normal;
+	letter-spacing: 1px;
+	color: #000000;
+	margin-top: 0.13rem;
+	display: block;
+}
+.cleft img{
+	width: 1.8rem;
+	height: 1.62rem;
+	margin-top: 0.38rem;
+}
+.cleft p{
+	width: 100%;
+	height: 0.21rem;
+	font-size: 0.18rem;
+	font-weight: 100;
+	font-stretch: normal;
+	letter-spacing: 1px;
+	color: #000000;
+	display: block;
+	margin-top: 0.22rem;
+}
+.cleft span{
+	width: 100%;
+	height: 0.21rem;
+	font-size: 0.26rem;
+	font-weight: 700;
+	font-stretch: normal;
+	letter-spacing: 1px;
+	color: #000000;
+	/* margin-top: 0.62rem; */
+}
+.cleft h6{
+	width: 100%;
+	height: 0.21rem;
+	font-size: 0.18rem;
+	font-weight: 100;
+	font-stretch: normal;
+	letter-spacing: 1px;
+	color: #000000;
+	display: block;
+	margin-top: 0.09rem;
+}
+#video{
+	width: 100%;
+	height: 7.95rem;
+}
+.vtop{
+	width: 100%;
+	height: 4.18rem;
+}
+.vtop img{
+	width: 100%;
+	height: 4.18rem;
+}
+.vbottom{
+	width: 100%;
+	height: 3.77rem;
+	padding-top: 0.4rem;
+	box-sizing: border-box;
+}
+.vbottom h1{
+	width: 100%;
+	height: 0.44rem;
+	font-size: 0.28rem;
+	text-align: center;
+}
+.vbottom p{
+	width: 100%;
+	height: 1.7rem;
+	font-size: 0.24rem;
+	text-align: center;
+}
+#more{
+	width: 100%;
+	height: 0.7rem;
+	margin-top: 0.1rem;
+}
+#more .in{
+	width: 1.4rem;
+	height: 0.6rem;
+	border-radius: 0.3rem;
+	margin: 0 auto;
+	border: solid 1px #fbca4a;
+	font-size: 0.18rem;
+	text-align: center;
+	line-height: 0.6rem;
+}
+#all-bottom{
+	width: 100%;
+	height: 3.34rem;
+}
+#all-bottom img{
+	width: 100%;
+	height: 3.34rem;
+}

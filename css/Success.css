@@ -1,0 +1,40 @@
+@import url("public.css");
+.zf_success{
+	width: 7.02rem;
+	height: 3.35rem;
+	border-radius: .1rem;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	background: url(../img/zhifu_succ.png) no-repeat 1.3rem 0rem #fff;
+}
+.zf_success .zf_con{
+	font-size: .3rem;
+	margin-top: 1.98rem;
+	text-align: center;
+}
+.zf_success .zf_con span{
+	color: #ffcb3f;
+	margin: 0 .08rem;
+}
+
+.zf_btn{
+	position: absolute;
+	bottom:.25rem;
+	left: 1.08rem;
+	
+	
+}
+.zf_btn input{
+	font-size: .24rem;
+	color: #fff;
+	background-color: #ffcb3f;
+	width: 1.45rem;
+	border-radius: .04rem;
+	height: .50rem;
+	outline: none;
+	border: none;
+}
+#dingdan{
+	margin-left: 1.65rem;
+}

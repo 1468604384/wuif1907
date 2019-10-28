@@ -1,0 +1,79 @@
+.shop-main{
+	height: .87rem;
+	background: #fff;
+	border-bottom: 0.01rem solid #eeeeee;
+	text-align: center;
+	font-size: .28rem;
+}
+.shop-main img{
+	position: absolute; 
+	width: .14rem;
+	top: 1.22rem;
+	left: .26rem;
+}
+.shop-main span{
+	line-height: .87rem;
+	font-weight: 500;
+}
+.shop-main-middle{
+	width: 7.02rem;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: .24rem;
+	box-sizing: border-box;
+	font-size: .28rem;
+	box-shadow: .01rem 0rem .1rem #eee;
+}
+.shop-from-label{
+	font-weight: 500;
+}
+.shop-form-item{
+	width: 100%;
+	height: .8rem;
+	line-height: .8rem;
+	border-bottom: 0.01rem solid #eeeeee;
+}
+.eahc{
+	padding: .48rem .29rem 0rem .29rem; 
+	overflow: hidden;
+}
+.eahc:last-child{
+	border: none;
+	padding-left: 0;
+}
+.eahc input{
+	width: 4.52rem;
+	height: 100%;
+	float: right;
+	box-sizing: border-box;
+	border: none;
+	background: none;
+	outline: none;
+}
+.eahc button{
+	width: 100%;
+	height: 100%;
+	border: none;
+	border-radius: 0.07rem;
+	background: #ffcb3f;
+	color: #fff;
+}
+.shop-lei_1{
+	width: .71rem;
+	height: .43rem;
+	border: 0.01rem solid #eee;
+	border-radius: .07rem;
+	margin-top: .2rem;
+	float: left;
+	margin-right: .36rem;
+	font-size: .16rem;
+	line-height: .43rem;
+	text-align: center;
+}
+.ace_last{
+	float: left;
+}
+.shop-lei_1:first-child{
+		margin-left: 1rem;
+		background: #ffda78;
+}
