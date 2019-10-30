@@ -1,0 +1,100 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.beijing{
+	width: 7.5rem;
+	height: 10.29rem;
+	background: #f4f4f4;
+	overflow: hidden;
+	margin-top: .8rem;
+}
+.wenti{
+	width: 6.53rem;
+	/*height: 3.98rem;*/
+	height: auto;
+	background: #FFFFFF;
+	margin: .47rem auto;
+	border-radius: .1rem;
+}
+.p1{
+	width: 100%;
+	font-size: .26rem;
+	color: #666666;
+	padding-top: .37rem;
+	padding-left: .4rem;
+	padding-bottom: .45rem;
+}
+.wenti1{
+	width: 100%;
+	height: auto;
+	padding-left: .75rem;
+	padding-bottom: .57rem;
+}
+.wenti1 li{
+	font-size: .26rem;
+	color: #333;
+	width: 100%;
+	height: auto;
+	margin-bottom: .43rem;
+}
+.wenti1 li:last-child {
+	margin-bottom: 0;
+}
+.tishi{
+	height: .42rem;
+	width: 3.57rem;
+	background: #ebebeb;
+	font-size: .22rem;
+	text-align: center;
+	padding-top: .1rem;
+	margin: 0 auto;
+	color: #666666;
+	border-radius: .1rem;
+}
+.duihua{
+	width: 4.5rem;
+	height: 1.14rem;
+	margin-top: .31rem;
+	margin-left: .45rem;
+	padding-left: .28rem;
+	padding-right: .28rem;
+	padding-top: .26rem;
+	color: #666666;
+	font-size: .26rem;
+	background: #fff;
+	border-radius: .1rem;
+	line-height: .4rem;
+}
+.dibu {
+    width: 6rem;
+    height: .64rem;
+    margin-top: .35rem;
+    margin-left: .2rem;
+    border-radius: .04rem;
+    border: 1px solid #e8e8e8;
+    background: #f4f4f4;
+    font-size: .26rem;
+    float: left;
+}
+input{
+	width: 100%;
+	height: .64rem;
+	border: none;
+    background: none;
+    outline: none;
+    font-size: .26rem;
+    margin-left: .17rem;
+}
+.imgs{
+	width: .4rem;
+	height: .4rem;
+	float: right;
+	margin-top: .5rem;
+	margin-right: .35rem;
+}
+.imgs img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}

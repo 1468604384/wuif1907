@@ -1,0 +1,127 @@
+@import url("public.css");
+#shuliang{
+	width: 5rem;
+	height: .23rem;
+	position: absolute;
+	top: 2.9rem;
+	left: 2.46rem;
+	font-size: .22rem;
+}
+.fukuan_fa{
+	margin-bottom: .22rem;
+}
+#shuliang li{
+	width: 1.4rem;
+	height: .3rem;
+	background: rgba(0,0,0,0);
+	box-shadow: 0px 0px 0px 0px #e8e8e8;
+	float: left;
+	margin-right: .2rem;
+	border-radius: 0;
+}
+#shuliang li:last-child{
+	margin-right: 0;
+}
+#shuliang p{
+	width: auto;
+	height: .23rem;
+	font-size: .22rem;
+	color: #999;
+	float: left;
+}
+#shuliang span{
+	font-size: .22rem;
+	color: #333;
+	width: auto;
+	height: .23rem;
+}
+.yuanyin{
+	width: 7.02rem;
+	height: .9rem;
+	box-shadow: 0px 1px 2px 0px #e8e8e8;
+	border-radius: .1rem;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-bottom: .22rem;
+}
+.p1{
+	font-size: .24rem;
+	color: #333;
+	line-height: .9rem;
+	float: left;
+	margin-left: .22rem;
+}
+.s{
+	float: right;
+	margin-right: .18rem;
+	
+}
+.s img{
+	display: block;
+	width: .14rem;
+	height: .24rem;
+	margin-top: .33rem;
+	float: right;
+}
+.s p{
+	float: right;
+	font-size: .24rem;
+	color: #999999;
+	line-height: .9rem;
+	margin-right: .19rem;
+}
+.yuanyin2{
+	width: 7.02rem;
+	height: 3.4rem;
+	box-shadow: 0px 1px 2px 0px #e8e8e8;
+	border-radius: .1rem;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.p3{
+	font-size: .24rem;
+	color: #333;
+	margin-top: .25rem;
+	margin-left: .21rem;
+}
+.neirong{
+	width: 6.65rem;
+	height: 2.07rem;
+	margin: 0 auto;
+	margin-top: .19rem;
+	background: #f5f5f5;
+	overflow: hidden;
+}
+.p4{
+	width: 6.11rem;
+	height: 1.2rem;
+	font-size: .24rem;
+	color: #999;
+	margin: 0 auto;
+	margin-top: .21rem;
+}
+.p5{
+	font-size: .24rem;
+	color: #999;
+	margin-left: .27rem;
+}
+.ss{
+	display: block;
+	width: .32rem;
+	height: .26rem;
+	margin-top: .19rem;
+	margin-left: .2rem;
+}	
+.dibu{
+	width: 6.38rem;
+	height: .77rem;
+	background: #ffcb3f;
+	color: #fff;
+	font-size: .24rem;
+	text-align: center;
+	line-height: .77rem;
+	position: fixed;
+	left: .56rem;
+	bottom: .4rem;
+	border-radius: .1rem;
+}

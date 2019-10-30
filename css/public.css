@@ -133,11 +133,12 @@ body{
     margin-left: .16rem;
     float: left;
     overflow: hidden;
-    margin-top: .25rem;
+    /*margin-top: .25rem;*/
 }
 .fukuan_fa li .zi1{
 	clear: both;
 	font-size: .14rem;
+	margin-bottom: .25rem;
 }
 .fukuan_fa li .zi2{
 	font-size: .14rem;
