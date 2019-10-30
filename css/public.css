@@ -24,6 +24,7 @@ body{
 	height: .87rem;
 	z-index: 1;
 	border-bottom: 1px solid #eeeeee;
+	
 }
 .nav_fanhui img ,.logo img ,.more img{
 	display: block;
@@ -57,8 +58,11 @@ body{
 .my_dingdan{
 	height: .78rem;
 	width: 100%;
-	position: relative;
+	position: fixed;
+	left: 0px;
+	top: .87rem;
 	border-bottom: 1px solid #EEEEEE;
+	background: #fff;
 }
 .dd_tit{
 	font-size: .28rem;
@@ -92,6 +96,7 @@ body{
 .fukuan_fa{
 	height: auto;
 	width: 100%;
+	margin-top: .78rem;
 }
 .fukuan_fa li{
 	width: 7.02rem;
@@ -100,6 +105,7 @@ body{
 	margin: .24rem auto 0 auto;
 	box-shadow: 0px 1px 2px 0px #e8e8e8;
 	overflow: hidden;
+	border-radius: 10px;
 }
 .fk_img{
 	width: 1.86rem;
@@ -133,7 +139,7 @@ body{
     margin-left: .16rem;
     float: left;
     overflow: hidden;
-    /*margin-top: .25rem;*/
+    
 }
 .fukuan_fa li .zi1{
 	clear: both;
@@ -149,6 +155,7 @@ body{
 	box-shadow: none;
 	font-size: .22rem;
 	margin: 0;
+	border-radius: 0;
 }
 .fukuan_fa li .price{
 	
