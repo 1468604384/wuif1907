@@ -9,3 +9,12 @@ body .fukuan_fa li .price li:last-child{
 .fukuan_fa{
 	margin-top: 1.1rem;
 }
+body .fukuan_fa li .fk_guige li:last-child{
+	float: right;
+	margin-right: 15%;
+	margin-left: 0;
+}
+body .fukuan_fa li .price li:first-child{
+	float: right;
+	margin-right: 15%;
+}
