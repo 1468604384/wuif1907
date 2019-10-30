@@ -1,0 +1,72 @@
+@import url("public.css");
+.youhui{
+	width: 7.02rem;
+	height: 1.41rem;
+	box-shadow: 0px 1px 2px 0px #e8e8e8;
+	margin: 0 auto;
+	margin-top: 1.18rem;
+	position: relative;
+	overflow: hidden;
+	margin-bottom: .28rem;
+}
+.youhui2{
+	width: 7.02rem;
+	height: 1.41rem;
+	box-shadow: 0px 1px 2px 0px #e8e8e8;
+	margin: 0 auto;
+	position: relative;
+	overflow: hidden;
+	margin-bottom: .28rem;
+}
+.youhui img{
+	display: block;
+	height: 100%;
+	width: 2.08rem;
+	float: left;
+}
+.youhui2 img{
+	display: block;
+	height: 100%;
+	width: 2.08rem;
+	float: left;
+}
+.p1{
+	width: 2.08rem;
+	height: .71rem;
+	position: absolute;
+	left: 0;
+	top: .2rem;
+	font-size: .6rem;
+	text-align: center;
+	color: #fff;
+}
+.p1 span{
+	font-size: .24rem;
+	color: #fff;
+}
+.p2{
+	width: 2.08rem;
+	position: absolute;
+	left: 0;
+	top: .91rem;
+	font-size: .24rem;
+	text-align: center;
+	color: #fff;
+}
+.p3{
+	width: auto;
+	height: .56rem;
+	margin-top: .3rem;
+	margin-left: 2.33rem;
+	font-size: .26rem;
+	color: #333;
+}
+.p4{
+	width: auto;
+	margin-left: 2.33rem;
+	font-size: .22rem;
+	color: #666;
+}
+
+
+

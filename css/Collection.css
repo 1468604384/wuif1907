@@ -1,0 +1,19 @@
+@import url("public.css");
+.qx_shoucang{
+	float: left;
+	font-size: .24rem;
+	margin-top: 1.05rem;
+	margin-left: .44rem;
+}
+.jg_sc{
+	width: 1.59rem;
+	height: .44rem;
+	border-radius: .04rem;
+	border: 1px solid #ffcb3f;
+	color: #ffcb3f;
+	font-size: .24rem;
+	padding: .02rem .15rem;
+	box-sizing: border-box;
+	margin-top: 1rem;
+	margin-left: 5.12rem;
+}

@@ -1,0 +1,58 @@
+.Per-main{
+	position: relative;
+}
+form{
+	position: absolute;
+	top: 2.34rem;
+	width: 7.02rem;
+	background: #fff;
+	border-radius: .1rem;
+	box-shadow: .01rem 0rem 0.1rem #ccc;
+	left: 50%;
+	transform: translateX(-50%);
+	padding: .5rem;
+	box-sizing: border-box;
+}
+.Pre-item{
+	width: 100%;
+	height: .88rem;
+	border-bottom: .01rem solid #eee;
+	line-height: .88rem;
+	overflow: hidden;
+}
+.Pre-item:first-child{
+	height: 1.4rem;
+}
+.Pre-item-img{
+	width: .94rem;
+	height: .94rem;
+	border-radius: .47rem;
+	background: red;
+	line-height: 1.4rem;
+	overflow: hidden;
+	float: left;
+}
+.Pre-content-right *{
+	float: right;
+	line-height: 1.4rem;
+	font-size: .28rem;
+	color: #999999;
+}
+.Pre-content-right img{
+	width: .14rem;
+	display: inline-block;
+	margin-top: .58rem;
+	margin-left: .25rem;
+}
+.Pec label{
+	margin: 0;
+	line-height: .98rem;
+}
+.Pec img{
+	margin-top: 0.38rem;
+}
+.Pec span{
+	float: left;
+	line-height: .88rem;
+	color: #000000;
+}

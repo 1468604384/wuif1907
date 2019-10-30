@@ -1,0 +1,11 @@
+body .fukuan_fa li .price li:last-child{
+	margin-top: .21rem;
+	border: 1px solid #ffcb3f;
+	width: 1.34rem;
+	height: .44rem;
+	text-align: center;
+	line-height: .44rem;
+}
+.fukuan_fa{
+	margin-top: 1.1rem;
+}
