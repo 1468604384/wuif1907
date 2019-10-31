@@ -1,7 +1,7 @@
 @import url("public.css");
 #shuliang{
 	width: 5rem;
-	height: .23rem;
+	/*height: .23rem;*/
 	position: absolute;
 	top: 2.9rem;
 	left: 2.46rem;
@@ -24,7 +24,7 @@
 }
 #shuliang p{
 	width: auto;
-	height: .23rem;
+	/*height: .23rem;*/
 	font-size: .22rem;
 	color: #999;
 	float: left;

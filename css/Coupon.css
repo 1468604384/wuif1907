@@ -67,6 +67,8 @@
 	font-size: .22rem;
 	color: #666;
 }
-
+body .my_dingdan{
+	z-index: 10;
+}
 
 
