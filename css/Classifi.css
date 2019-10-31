@@ -15,7 +15,7 @@ body{
 }
 #left{
 	width: 2.2rem;
-	height: 10.06rem;
+	height: 100%;
 	position: absolute;
 	left: 0;
 	top: 0rem;
@@ -37,6 +37,7 @@ body{
 	text-align: center;
 	padding-top: 0.37rem;
 	box-sizing: border-box;
+	background-color: #f6f6f6;
 }
 .left-child span{
 	line-height: 0.32rem;
