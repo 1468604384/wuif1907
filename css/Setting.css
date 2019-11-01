@@ -9,28 +9,15 @@
 }
 
 .list{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 	width: 6.42rem;
 	height: 0.9rem;
 	background: #FFFFFF;
 	margin: 0 auto;
-	text-align: center;
-	line-height: 0.9rem;
-	border-bottom: 0.02rem solid #C1C1C1;
-	position: relative;
-	
-}
-.list li:first-child{
-	float: left;
 	font-size: 0.24rem;
-}
-.list li:last-child{
-	float: right;
-	width: 0.24rem;
-	height: 0.24rem;
-	position: absolute;
-	top: 0.32rem;
-	right: 0;
-	
+	border-bottom: 0.02rem solid #C1C1C1;
 }
 li img{
 	display: block;
