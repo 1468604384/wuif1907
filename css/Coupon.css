@@ -4,7 +4,7 @@
 	height: 1.41rem;
 	box-shadow: 0px 1px 2px 0px #e8e8e8;
 	margin: 0 auto;
-	margin-top: 1.18rem;
+	margin-top: .3rem;
 	position: relative;
 	overflow: hidden;
 	margin-bottom: .28rem;
@@ -66,9 +66,6 @@
 	margin-left: 2.33rem;
 	font-size: .22rem;
 	color: #666;
-}
-body .my_dingdan{
-	z-index: 10;
 }
 
 
