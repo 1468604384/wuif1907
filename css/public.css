@@ -119,7 +119,7 @@ body{
 	width: 100%;
 	height: 100%;
 }
-<<<<<<< HEAD
+
 .fukuan_right{
 	display: flex;
 	flex-direction: column;
@@ -130,9 +130,8 @@ body{
 	width: auto;
 	height: 1.25rem;
 	font-size: .24rem;
-=======
+
 .fk_guige{
->>>>>>> 9b07de099c381c2c60f8a1f843edc5d258965291
 	overflow: hidden;
 	font-size: .14rem;
 	margin-top: .36rem;
@@ -149,11 +148,9 @@ body{
 	float: right;
 	margin-top: .14rem;
 	margin-right: .35rem;
-=======
 .fk_guige :last-child{
 	clear: right;
 	margin-left: .66rem;
->>>>>>> 9b07de099c381c2c60f8a1f843edc5d258965291
 }
 .fukuan_fa li .guige{
     margin-left: .16rem;
@@ -166,7 +163,6 @@ body{
 	font-size: .14rem;
 	margin-bottom: .25rem;
 }
-<<<<<<< HEAD
 .fk_btn1{
 	color: #999999;
 	margin-right: .28rem;
@@ -179,7 +175,6 @@ body{
 	box-sizing: border-box;
 	border: 1px solid #ffe6b0;
 	
-=======
 .fukuan_fa li .zi2{
 	font-size: .14rem;
 }
@@ -196,7 +191,6 @@ body{
 	float: right;
 	margin-right: .33rem;
 	margin-top: .4rem;
->>>>>>> 9b07de099c381c2c60f8a1f843edc5d258965291
 }
 
 /*商品推荐title（小标题）*/
