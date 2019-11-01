@@ -327,7 +327,7 @@ body{
 
 
 .biaoti{
-	width: 2.4rem;
+	width: 2.0rem;
 	height: 1.1rem;
 	margin: .9rem auto .6rem;
 }
@@ -367,18 +367,53 @@ body{
 .dixia{
 	width: 100%;
 	height: 0.98rem;
+<<<<<<< HEAD
+	background: #FFFFFF;
+	position: fixed;
+	bottom: 0;
+	border: 0.01rem #d7d7d7 solid;
+	display: flex;
+	justify-content: space-between;
+=======
 	background: red;
 	position: fixed;
 	bottom: 0;
 	border: 0.01rem #d7d7d7 solid;
+>>>>>>> d7879a5366b508a13db82a02f34bdeac449870c4
 }
 .dixia_z{
 	width: 1.26rem;
 	height: 0.98rem;
+<<<<<<< HEAD
+	display: flex;
+	align-items: center;
+}
+.dixia_z1{
+	width: 0.44rem;
+	height: 0.68rem;
+	margin: 0 auto;
+}
+.dixia_z1_s{
+	width: 0.38rem;
+	height: 0.38rem;
+	font-size: 0.2rem;
+	color: #737373;
+}
+.dixia_z1_s img{
+	width: 100%;
+	height: 100%;
+}
+.dixia_zhong{
+	font-size: 0.24rem;
+	text-align: center;
+	display: flex;
+	align-items: center;
+=======
 }
 .dixia_zhong{
 	width: 1.26rem;
 	height: 0.98rem;
+>>>>>>> d7879a5366b508a13db82a02f34bdeac449870c4
 }
 .dixia_y{
 	width: 3.1rem;
