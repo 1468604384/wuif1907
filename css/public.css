@@ -118,6 +118,10 @@ body{
 	width: 100%;
 	height: 100%;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> cf1941a8998fb7230e1494c7c4c65e3c5fd551c3
 .fukuan_right{
 	display: flex;
 	flex-direction: column;
@@ -128,6 +132,11 @@ body{
 	width: auto;
 	height: 1.25rem;
 	font-size: .24rem;
+<<<<<<< HEAD
+=======
+
+.fk_guige{
+>>>>>>> cf1941a8998fb7230e1494c7c4c65e3c5fd551c3
 	overflow: hidden;
 }
 .fukuan_right p span{
@@ -139,17 +148,57 @@ body{
 	margin-left: .16rem;
 	margin-top: .7rem;
 	width: auto;
+<<<<<<< HEAD
 	height: 1.1rem;
 	overflow: auto;
+=======
+	height: auto;	
+	box-shadow: none;
+}
+
+.fk_btn{
+	float: right;
+	margin-top: .14rem;
+	margin-right: .35rem;
+.fk_guige :last-child{
+	clear: right;
+	margin-left: .66rem;
+}
+.fukuan_fa li .guige{
+    margin-left: .16rem;
+    float: left;
+    overflow: hidden;
+    
+}
+.fukuan_fa li .zi1{
+	clear: both;
+>>>>>>> cf1941a8998fb7230e1494c7c4c65e3c5fd551c3
 	font-size: .14rem;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
 }
+<<<<<<< HEAD
 .fk_btn{
 	float: right;
 	margin-top: .14rem;
 	margin-right: .35rem;
+=======
+.fk_btn1{
+	color: #999999;
+	margin-right: .28rem;
+	margin-top: .02rem;
+	padding: 0.05rem 0;
+}
+.fk_btn2{
+	color: #ffe6b0;
+	padding: .05rem .17rem;
+	box-sizing: border-box;
+	border: 1px solid #ffe6b0;
+	
+.fukuan_fa li .zi2{
+	font-size: .14rem;
+>>>>>>> cf1941a8998fb7230e1494c7c4c65e3c5fd551c3
 }
 .fk_btn div{
 	overflow: hidden;
