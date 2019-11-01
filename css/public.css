@@ -118,7 +118,7 @@ body{
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	float: right;
+	align-items: flex-end;
 	margin-top: .66rem;
 	margin-right: .35rem;
 	width: auto;
@@ -144,7 +144,8 @@ body{
 }
 .fk_btn{
 	float: right;
-	margin-top: .24rem;
+	margin-top: .14rem;
+	margin-right: .35rem;
 }
 .fk_btn div{
 	overflow: hidden;
@@ -155,13 +156,14 @@ body{
 	color: #999999;
 	margin-right: .28rem;
 	margin-top: .02rem;
+	padding: 0.05rem 0;
 }
 .fk_btn2{
 	color: #ffe6b0;
 	padding: .05rem .17rem;
 	box-sizing: border-box;
 	border: 1px solid #ffe6b0;
-	margin-right: -.97rem;
+	
 }
 /*商品推荐title（小标题）*/
 .shop_tit{
