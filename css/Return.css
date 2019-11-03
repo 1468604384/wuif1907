@@ -3,12 +3,13 @@
 	width: 5rem;
 	/*height: .23rem;*/
 	position: absolute;
-	top: 2.9rem;
+	top: 3.2rem;
 	left: 2.46rem;
 	font-size: .22rem;
 }
 .fukuan_fa{
 	margin-bottom: .22rem;
+	/*margin-top: 1.1rem;*/
 }
 #shuliang li{
 	width: 1.4rem;

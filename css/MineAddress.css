@@ -10,10 +10,40 @@
 	height: 1.36rem;
 	background: #FFFFFF;
 	margin: 0 auto;
-	/*text-align: center;*/
 	border-bottom: 0.02rem solid #C1C1C1;
-	position: relative;
+	overflow: hidden;	
+	/*display: flex;*/
+	
 }
+.msg{
+	width: 6.42rem;
+	height: 1.36rem;
+	background: #FFFFFF;
+	position: relative;
+	float: left;
+}
+/*.moren{
+	display: none;
+	width: 1.14rem;
+	height: 1.36rem;
+	color: #333;
+	font-size: 0.24rem;
+	background: #F4F4F4;
+	text-align: center;
+	line-height: 1.36rem;
+	float: left;
+}
+.delete{
+	display: none;
+	width: 1.14rem;
+	height: 1.36rem;
+	color: #333;
+	font-size: 0.24rem;
+	background: #FFCB3F;
+	text-align: center;
+	line-height: 1.36rem;
+	float: left;
+}*/
 .nei5-1-1{
 	color: black;
 	font-size: 0.24rem;
